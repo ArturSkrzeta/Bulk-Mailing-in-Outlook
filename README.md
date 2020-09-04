@@ -1,2 +1,6 @@
-# Bulk-Mailing-in-Outlook-with-Python
-Bulk mailing is always the case for automation. With Python, i can sent emails foo multiple recipients.
+<h2>Bulk Mailing in Outlook with Python</h2>
+<h3>Intro</h3>
+<ul>
+  <li>...</li>
+</ul>
+
